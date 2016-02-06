@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="rss.db:war">
+    <output-path>$PROJECT_DIR$/../rssdb/target</output-path>
+    <root id="archive" name="rss.db-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="rss.db:war exploded" />
+    </root>
+  </artifact>
+</component>

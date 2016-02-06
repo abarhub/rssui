@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../rssdb/rss.db.iml" filepath="$PROJECT_DIR$/../rssdb/rss.db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../rssbeans/rssbeans.iml" filepath="$PROJECT_DIR$/../rssbeans/rssbeans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../rssread/rssread.iml" filepath="$PROJECT_DIR$/../rssread/rssread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rssui.iml" filepath="$PROJECT_DIR$/rssui.iml" />
+    </modules>
+  </component>
+</project>
