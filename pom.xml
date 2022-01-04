@@ -23,7 +23,7 @@
 		<java.version>1.8</java.version>
 		<spring.version>4.2.2.RELEASE</spring.version>
 		<slf4j.version>1.7.12</slf4j.version>
-		<log4j2.version>2.4.1</log4j2.version>
+		<log4j2.version>2.17.1</log4j2.version>
 		<apache_http_client.version>4.1</apache_http_client.version>
 		<apache_http_client2.version>4.4.1</apache_http_client2.version>
 		<guava.version>18.0</guava.version>
